@@ -1,0 +1,101 @@
+ciudad,latitud,longitud,pais,poblacion
+Malishevë,42.4822,20.7458,Kosovo,
+Prizren,42.2139,20.7397,Kosovo,
+Zubin Potok,42.9144,20.6897,Kosovo,
+Kamenicë,42.5781,21.5803,Kosovo,
+Viti,42.3214,21.3583,Kosovo,
+Shtërpcë,42.2394,21.0272,Kosovo,
+Shtime,42.4331,21.0397,Kosovo,
+Vushtrri,42.8231,20.9675,Kosovo,
+Dragash,42.0265,20.6533,Kosovo,
+Pretoria,-25.7069,28.2294,South Africa,1338000
+Lebowakgomo,-24.1996,29.5000,South Africa,33308
+Potchefstroom,-26.6996,27.1000,South Africa,123669
+Graaff Reinet,-32.3000,24.5400,South Africa,62896
+Rustenburg,-25.6500,27.2400,South Africa,165976
+Brandfort,-28.6996,26.4700,South Africa,12091
+Vryheid,-27.7600,30.7900,South Africa,150012
+Vereeniging,-26.6496,27.9600,South Africa,1074000
+Brits,-25.6296,27.7800,South Africa,122497
+Bethlehem,-28.2196,28.3000,South Africa,83654
+Triesenberg,47.1182,9.5444,Liechtenstein,
+Schaan,47.1661,9.5096,Liechtenstein,
+Ruggell,47.2408,9.5247,Liechtenstein,
+Mauren,47.2205,9.5426,Liechtenstein,
+Eschen,47.2109,9.5216,Liechtenstein,
+Triesen,47.1101,9.5240,Liechtenstein,
+Balzers,47.0667,9.5025,Liechtenstein,
+Vaduz,47.1337,9.5167,Liechtenstein,36281
+Planken,47.1844,9.5436,Liechtenstein,
+Schellenberg,47.2325,9.5463,Liechtenstein,
+Antananarivo,-18.9166,47.5166,Madagascar,1697000
+Toamasina,-18.1818,49.4050,Madagascar,210226
+Antalaha,-14.8833,50.2833,Madagascar,47224
+Maroantsetra,-15.4333,49.7333,Madagascar,38046
+Mandritsara,-15.8328,48.8166,Madagascar,9705
+Besalampy,-16.7495,44.4833,Madagascar,1022
+Marovoay,-16.0995,46.6333,Madagascar,31253
+Andoany,-13.4000,48.2666,Madagascar,22680
+Mahajanga,-15.6700,46.3450,Madagascar,154657
+Ambanja,-13.6829,48.4500,Madagascar,30621
+San Lawrenz,36.0556,14.2036,Malta,
+Imqabba,35.8461,14.4672,Malta,
+Imdina,35.8869,14.4025,Malta,
+Qala,36.0361,14.3094,Malta,
+Imtarfa,35.8933,14.3989,Malta,
+Żurrieq,35.8311,14.4742,Malta,
+Gudja,35.8492,14.5031,Malta,
+Sannat,36.0244,14.2428,Malta,
+Valletta,35.8997,14.5147,Malta,368250
+Żabbar,35.8761,14.5350,Malta,
+Ciudad Victoria,23.7200,-99.1300,Mexico,274900
+Mexicali,32.6500,-115.4800,Mexico,885000
+Aguascalientes,21.8795,-102.2904,Mexico,869000
+Chihuahua,28.6450,-106.0850,Mexico,793000
+Guanajuato,21.0204,-101.2800,Mexico,112200
+Chilpancingo,17.5500,-99.5000,Mexico,182387
+Pachuca,20.1704,-98.7300,Mexico,319581
+Guadalajara,20.6700,-103.3300,Mexico,4198000
+Cuernavaca,18.9211,-99.2400,Mexico,834001
+Monterrey,25.6700,-100.3300,Mexico,3712000
+Carrizo Springs,28.5266,-99.8589,United States,6537.0
+Hutchins,32.6421,-96.7093,United States,5639
+Highland Park,32.8311,-96.8012,United States,9149
+Littlefield,33.9191,-102.3349,United States,5605.0
+Hidalgo,26.1080,-98.2481,United States,13831
+Helotes,29.5701,-98.6947,United States,8758
+Cuero,29.1006,-97.2865,United States,10090.0
+Selma,29.5866,-98.3134,United States,10088
+Rockwall,32.9169,-96.4379,United States,43586
+Midlothian,32.4716,-96.9879,United States,23689
+Kyoto,35.0300,135.7500,Japan,1805000
+Nagano,36.6500,138.1700,Japan,594311
+Nagasaki,32.7650,129.8850,Japan,435455
+Nagoya,35.1550,136.9150,Japan,3230000
+Naha,26.2072,127.6730,Japan,905238
+Niigata,37.9200,139.0400,Japan,569797
+Sapporo,43.0750,141.3400,Japan,2544000
+Sendai,38.2871,141.0217,Japan,2250000
+Yokohama,35.3200,139.5800,Japan,3697894
+Saitama,35.9000,139.6500,Japan,
+Saga,33.2333,130.3000,Japan,
+Nara,34.6833,135.8333,Japan,
+Anaco,9.4400,-64.4600,Venezuela,117596
+Machiques,10.0704,-72.5499,Venezuela,62968
+La Esmeralda,3.1738,-65.5466,Venezuela,150
+Chaguaramas,9.2159,-63.7523,Venezuela,15000
+Santa Rita,10.5318,-71.5039,Venezuela,31810
+Puerto Cabello,10.4704,-68.1700,Venezuela,174000
+El Dorado,6.7333,-61.6333,Venezuela,2383
+Valera,9.3200,-70.6200,Venezuela,191167
+El Tigre,8.8903,-64.2600,Venezuela,197440
+Caracas,10.5010,-66.9170,Venezuela,2985000
+Puerto la Cruz,10.1700,-64.6800,Venezuela,546616
+Barcelona,10.1304,-64.7200,Venezuela,600954
+Saint John,45.2670,-66.0767,Canada,87857
+Inuvik,68.3500,-133.7000,Canada,3022
+Chesterfield Inlet,63.3383,-90.7001,Canada,374
+Rouyn-Noranda,48.2500,-79.0332,Canada,24602
+Liverpool,44.0400,-64.7200,Canada,4331
+Montréal,45.5000,-73.5833,Canada,3678000
+Xinguara,-7.1006,-49.9480,Brazil,4047
