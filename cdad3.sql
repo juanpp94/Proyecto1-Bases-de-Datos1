@@ -5,16 +5,16 @@
 *@author Victoria Torres 12-11468
 */
 
-
-DROP TABLE IF EXISTS cdad3 CASCADE;
+DROP TABLE IF EXISTS cdad3;
+DROP DATABASE IF EXISTS tarea1;
 
 --CREATE DATABASE TAREA1 WITH OWNER postgres;
 
 /* CREA LA BASE DE DATOS*/
-CREATE DATABASE TAREA1
+CREATE DATABASE TAREA1 OWNER postgres;
 
 /* INGRESAMOS A LA BASE DE DATOS*/
-\c tarea1;
+\connect tarea1;
 
 /*CREAR TABLA*/
 
@@ -29,7 +29,7 @@ CREATE TABLE cdad3(
 
 
 /*COPIAR DATOS DEL CSV EN LA TABLA*/
-COPY cdad3 (ciudad,latitud,longitud,pais,poblacion) from '/home/jd-ubuntu/Documentos/Bases1/tarea/pruebaMediana.csv' delimiter ',' csv header;
+COPY cdad3 (ciudad,latitud,longitud,pais,poblacion) from '/home/vtorres/Descargas/Enero-Marzo 2019/Sistemas de Bases de Datos I/Laboratorio/pruebaMediana.csv' delimiter ',' csv header;
 
 /*MOSTRAR TABLA*/
 SELECT * from cdad3;
