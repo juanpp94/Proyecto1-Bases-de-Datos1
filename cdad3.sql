@@ -29,7 +29,7 @@ CREATE TABLE cdad3(
 
 
 /*COPIAR DATOS DEL CSV EN LA TABLA*/
-COPY cdad3 (ciudad,latitud,longitud,pais,poblacion) from '/home/vtorres/Descargas/Enero-Marzo 2019/Sistemas de Bases de Datos I/Laboratorio/pruebaMediana.csv' delimiter ',' csv header;
+COPY cdad3 (ciudad,latitud,longitud,pais,poblacion) from '/var/tmp/pruebaMediana.csv' delimiter ',' csv header;
 
 /*MOSTRAR TABLA*/
 SELECT * from cdad3;
